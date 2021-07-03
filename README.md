@@ -3,7 +3,7 @@
 ## Purpose
 This is a password generator. It can generate a password between 8 and 128 characters that will include the desired characters chosen by the user. The user can choose between uppercase, lowercase, numbers and special characters. The Password generator will also validate the result make sure it includes one of each desired character as selected by the user. 
 
-![password generator](./images/passwordgenerator.PNG "Image of Password Generator")
+![password generator](./images/passwordgenerator.PNG?raw=true "Image of Password Generator")
 
 ## Built With
 * HTML
